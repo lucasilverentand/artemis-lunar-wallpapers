@@ -1,0 +1,15 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "artemis-lunar-wallpapers",
+  "account_id": "029d254cac84938ccede0b57a8711f31",
+  "compatibility_date": "2026-04-09",
+  "assets": {
+    "directory": "./dist"
+  },
+  "routes": [
+    {
+      "pattern": "lunar.lucasilverentand.com",
+      "custom_domain": true
+    }
+  ]
+}
