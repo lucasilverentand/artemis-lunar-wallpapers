@@ -1,167 +1,623 @@
 [
   {
     "source": "art002e009277.jpg",
+    "id": "art002e009277",
     "name": "moon-upper-hemisphere",
-    "description": "Moon's upper hemisphere, maria and cratered surface, centered-left"
+    "title": "A Moment with the Moon",
+    "description": "The Moon taken by the Artemis II crew. Shows Orientale basin in the center, with a black patch of ancient lava. The crater Byrgius and its distinctive rays are visible.",
+    "date": "2026-04-06T18:19:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6 at 220mm",
+    "settings": "f/8, 1/1000s, ISO 400",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Orientale Basin",
+      "Byrgius Crater"
+    ],
+    "caption": "Orientale basin and Byrgius crater rays"
   },
   {
     "source": "art002e009278.jpg",
+    "id": "art002e009278",
     "name": "moon-nearside-maria",
-    "description": "Moon shifted left, near-side with dark maria and crater fields"
+    "title": "Keeper of the Night Sky",
+    "description": "Just over half of the Moon's disk, with the near side's dark lava patches visible. Orientale basin appears encircled by mountain rings, Grimaldi crater shows as a dark spot, and Aristarchus crater is the bright white dot within a dark lava flow.",
+    "date": "2026-04-06T19:05:44Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6 at 140mm",
+    "settings": "f/8, 1/1000s, ISO 400",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Orientale Basin",
+      "Grimaldi Crater",
+      "Aristarchus Crater"
+    ],
+    "caption": "Near side with Orientale, Grimaldi, and Aristarchus"
   },
   {
     "source": "art002e009279.jpg",
+    "id": "art002e009279",
     "name": "moon-southern-craters-closeup",
-    "description": "Extreme close-up of Moon's cratered southern surface, dark mare at right edge"
+    "title": "It's All in the Details",
+    "description": "The rings of the Orientale basin, one of the Moon's youngest and best-preserved large impact craters. The concentric ring structures help scientists understand crater formation. Two smaller features — suggested names Integrity and Carroll — demonstrate how crew observations support real-time surface science.",
+    "date": "2026-04-06T19:41:45Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6 at 180mm",
+    "settings": "f/8, 1/1000s, ISO 400",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Orientale Basin"
+    ],
+    "caption": "Orientale basin ring structures up close"
   },
   {
     "source": "art002e009280b.jpg",
+    "id": "art002e009280b",
     "name": "earth-crescent-from-deep-space",
-    "description": "Earth as a thin crescent arc from deep space, mostly in shadow"
+    "title": "Artemis Era Earthrise",
+    "description": "Earth appears as a delicate crescent, with only its upper edge illuminated during the Artemis II lunar flyby. The lunar horizon is silhouetted against the illuminated Earth.",
+    "date": "2026-04-06T23:22:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6 at 400mm",
+    "settings": "f/8, 1/1000s, ISO 400",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Earthrise"
+    ],
+    "caption": "Crescent Earth rising over the lunar horizon"
   },
   {
     "source": "art002e009281.jpg",
+    "id": "art002e009281",
     "name": "moon-terminator-craters",
-    "description": "Moon's heavily cratered surface along the terminator with sharp shadows"
+    "title": "Shadows at the Edge of Lunar Day",
+    "description": "A portion of the Moon along the terminator — the boundary between lunar day and night — where low-angle sunlight casts long, dramatic shadows across the surface.",
+    "date": "2026-04-06T21:46:35Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6 at 210mm",
+    "settings": "f/5.6, 1/500s, ISO 400",
+    "keywords": [
+      "Artemis II",
+      "Moon",
+      "Orion",
+      "Terminator"
+    ],
+    "caption": "Dramatic shadows along the day-night boundary"
   },
   {
     "source": "art002e009282.jpg",
+    "id": "art002e009282",
     "name": "moon-central-crater-detail",
-    "description": "Lunar surface close-up with a prominent central crater surrounded by smaller ones"
+    "title": "Shadows Across Vavilov Crater",
+    "description": "A close-up of Vavilov Crater on the rim of the older and larger Hertzsprung basin. The image captures the transition between smooth and rugged lunar terrain, with crater shadows highlighting the boundary between lunar day and night.",
+    "date": "2026-04-06T21:49:43Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6 at 400mm",
+    "settings": "f/5.6, 1/500s, ISO 400",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Vavilov Crater",
+      "Hertzsprung Basin"
+    ],
+    "caption": "Vavilov crater on the Hertzsprung basin rim"
   },
   {
     "source": "art002e009283.jpg",
+    "id": "art002e009283",
     "name": "moon-terminator-surface",
-    "description": "Moon's cratered surface along the terminator against black space"
+    "title": "Ready for a Close Up",
+    "description": "The heavily cratered terrain of the eastern edge of the South Pole-Aitken basin with the shadowed terminator.",
+    "date": "2026-04-06T21:58:14Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6 at 400mm",
+    "settings": "f/5.6, 1/500s, ISO 400",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "South Pole-Aitken Basin"
+    ],
+    "caption": "South Pole-Aitken basin at the terminator"
   },
   {
     "source": "art002e009284.jpg",
+    "id": "art002e009284",
     "name": "moon-farside-with-earth",
-    "description": "Moon's cratered far side with tiny crescent Earth in the distance"
+    "title": "Earthset Over the Lunar Limb",
+    "description": "Earth appears tiny as the Moon looms large in this photo taken during the lunar flyby.",
+    "date": "2026-04-06T22:05:33Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6 at 80mm",
+    "settings": "f/8, 1/1000s, ISO 400",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Earth",
+      "Earthset"
+    ],
+    "caption": "Tiny Earth beyond the cratered far side"
   },
   {
     "source": "art002e009285.jpg",
+    "id": "art002e009285",
     "name": "earthrise-over-moon-limb",
-    "description": "Moon's cratered limb with crescent Earth rising beside it"
+    "title": "The Edge of Two Worlds",
+    "description": "Earth draws closer to passing behind the Moon, about six minutes before Earthset. Earth is in a crescent phase, with sunlight coming from the right.",
+    "date": "2026-04-06T22:35:54Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6 at 210mm",
+    "settings": "f/8, 1/1000s, ISO 400",
+    "keywords": [
+      "Artemis II",
+      "Moon",
+      "Earth",
+      "Orion"
+    ],
+    "caption": "Crescent Earth six minutes before Earthset"
   },
   {
     "source": "art002e009287.jpg",
+    "id": "art002e009287",
     "name": "earth-above-lunar-horizon",
-    "description": "Cratered lunar surface with crescent Earth above the Moon's horizon"
+    "title": "A New View of the Moon",
+    "description": "Earth sets at 6:41 p.m. EDT over the Moon's curved limb as the crew journeys around the far side of the Moon.",
+    "date": "2026-04-06T22:41:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6 at 80mm",
+    "settings": "f/7.1, 1/800s, ISO 400",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Earth",
+      "Earthset"
+    ],
+    "caption": "Earthset over the lunar limb at 6:41 p.m."
   },
   {
     "source": "art002e009289.jpg",
+    "id": "art002e009289",
     "name": "earth-peeking-over-moon",
-    "description": "Moon from orbit with crescent Earth peeking over the limb"
+    "title": "A Setting Earth",
+    "description": "The lunar surface in sharp detail with Earth setting in the background. Captured just three minutes before Orion and its crew went behind the Moon.",
+    "date": "2026-04-06T22:41:58Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6 at 220mm",
+    "settings": "f/7.1, 1/800s, ISO 400",
+    "keywords": [
+      "Artemis II",
+      "Moon",
+      "Earth",
+      "Earthset",
+      "Lunar Flyby"
+    ],
+    "caption": "Earth setting three minutes before loss of signal"
   },
   {
     "source": "art002e009298.jpg",
+    "id": "art002e009298",
     "name": "moon-limb-distant-earth",
-    "description": "Dark Moon limb from distance with faint Earth crescent and stars"
+    "title": "Artemis II Total Solar Eclipse, Partial Frame",
+    "description": "A total solar eclipse with only part of the Moon visible as it fully obscures the Sun. A glowing halo surrounds the dark lunar disk — possibly the corona, zodiacal light, or both. From deep space the Moon sustained nearly 54 minutes of totality. The bright glint on the left edge is Venus. Mare Crisium is visible along the lunar horizon.",
+    "date": "2026-04-06T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Solar Eclipse",
+      "Venus",
+      "Mare Crisium"
+    ],
+    "caption": "Total solar eclipse with Venus and Mare Crisium"
   },
   {
     "source": "art002e009299.jpg",
+    "id": "art002e009299",
     "name": "solar-eclipse-diamond-ring",
-    "description": "Diamond ring effect — Sun's corona at the Moon's edge during eclipse"
+    "title": "Solar Eclipse Emergence from Orion",
+    "description": "The Sun beginning to peek out from behind the Moon as the eclipse transitions out of totality. A bright sliver of sunlight returns after nearly an hour of darkness, creating sharp contrast against the Moon's silhouette and revealing lunar topography along the limb.",
+    "date": "2026-04-06T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Solar Eclipse"
+    ],
+    "caption": "Sunlight returns after nearly an hour of totality"
   },
   {
     "source": "art002e009301.jpg",
+    "id": "art002e009301",
     "name": "total-solar-eclipse-corona",
-    "description": "Full solar eclipse — Moon's dark disk surrounded by glowing solar corona"
+    "title": "Artemis II in Eclipse",
+    "description": "The Moon fully eclipsing the Sun. From the crew's perspective, the Moon appeared large enough to create nearly 54 minutes of totality. A glowing halo surrounds the dark lunar disk. Stars normally too faint to see are visible, and the faint glow of the nearside is illuminated by Earthlight.",
+    "date": "2026-04-06T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Solar Eclipse",
+      "Corona"
+    ],
+    "caption": "54-minute total eclipse with corona and Earthlight"
   },
   {
     "source": "art002e009627.jpg",
+    "id": "art002e009627",
     "name": "moon-three-quarter-lit",
-    "description": "Moon close-up, roughly three-quarters illuminated, from nearby in space"
+    "title": "Dark Craters, Bright Views",
+    "description": "More than two-thirds of the Moon during the first observation shift, highlighting the 600-mile-wide Orientale basin along the boundary between the near and far sides, and Grimaldi crater with its dark mare lava floor and heavily worn rim.",
+    "date": "2026-04-06T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Orientale Basin",
+      "Grimaldi Crater"
+    ],
+    "caption": "Orientale basin and Grimaldi crater from orbit"
   },
   {
     "source": "art002e010208.jpg",
+    "id": "art002e010208",
     "name": "moon-farside-half-lit",
-    "description": "Half-lit Moon showing heavily cratered far-side terrain along terminator"
+    "title": "The Edge of Darkness",
+    "description": "The terminator boundary between day and night — described by the crew as 'anything but a straight line.' Crater rims stand out as 'islands' in the night. Giant crater chains from the 3.7-billion-year-old Orientale basin scour the surface of the even older Hertzsprung Basin.",
+    "date": "2026-04-06T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Hertzsprung Basin",
+      "Orientale Basin",
+      "Terminator"
+    ],
+    "caption": "Crater chains from Orientale scarring Hertzsprung basin"
   },
   {
     "source": "art002e010232.jpg",
+    "id": "art002e010232",
     "name": "moon-ancient-impact-basin",
-    "description": "Large ancient impact basin on the lunar surface surrounded by cratered terrain"
+    "title": "The Moon's Great Scar",
+    "description": "A detailed image of the Orientale basin, a 600-mile-wide impact crater marked by a dark patch of ancient lava that erupted through the Moon's crust billions of years ago.",
+    "date": "2026-04-06T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Orientale Basin"
+    ],
+    "caption": "Orientale basin with ancient lava flows"
   },
   {
     "source": "art002e010399.jpg",
+    "id": "art002e010399",
     "name": "moon-limb-cratered-highlands",
-    "description": "Oblique view along Moon's curved limb, densely cratered highlands"
+    "title": "Craters of Time",
+    "description": "Craters dotting the surface of the Moon, revealing its rugged, ancient surface. This scarred landscape reflects a long history of cosmic collisions.",
+    "date": "2026-04-06T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Craters"
+    ],
+    "caption": "Rugged cratered highlands along the limb"
   },
   {
     "source": "art002e010782.jpg",
+    "id": "art002e010782",
     "name": "moon-limb-solar-flare",
-    "description": "Moon's limb silhouetted with brilliant solar flare blazing along the edge"
+    "title": "A Solar Eclipse Like No Other",
+    "description": "A wedge of the Moon in nighttime as the Sun sets on the opposite side, capturing the beginning of a total solar eclipse. Unlike minutes-long eclipses from Earth, the crew witnessed the Sun hide behind the Moon for nearly an hour. The bright rays running outward are the Sun's corona, normally hidden by surface light. The jagged lunar edge reveals backlit mountain topography.",
+    "date": "2026-04-06T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Solar Eclipse",
+      "Corona"
+    ],
+    "caption": "Solar corona streaming past the lunar limb"
   },
   {
     "source": "art002e012010.jpg",
+    "id": "art002e012010",
     "name": "moon-nearside-bright-crater",
-    "description": "Moon's near side with dark mare regions and bright crater with ejecta rays"
+    "title": "A \"Handprint\" on the Moon",
+    "description": "Contrasting dark and light features the crew compared to a handprint. From top to bottom: Oceanus Procellarum, Mare Humorum (the 'Sea of Moisture'), and the crater Byrgius A.",
+    "date": "2026-04-06T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Oceanus Procellarum",
+      "Mare Humorum",
+      "Byrgius A Crater"
+    ],
+    "caption": "Oceanus Procellarum, Mare Humorum, and Byrgius A"
   },
   {
     "source": "art002e012028.jpg",
+    "id": "art002e012028",
     "name": "moon-southern-highlands",
-    "description": "Moon's southern hemisphere, rugged highlands with bright crater near terminator"
+    "title": "Ancient Lava on the Moon",
+    "description": "A close-up of the near side as Orion approached for the flyby. The dark patches of ancient lava are visible on the top third. Aristarchus crater is the bright white dot in the midst of a dark grey lava flow.",
+    "date": "2026-04-06T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Aristarchus Crater"
+    ],
+    "caption": "Near side with Aristarchus crater glowing bright"
   },
   {
     "source": "art002e012090.jpg",
+    "id": "art002e012090",
     "name": "moon-mare-overhead",
-    "description": "Overhead view of dark irregular mare surrounded by cratered highlands"
+    "title": "The Rings of the Orientale Basin",
+    "description": "The rings of the Orientale basin, one of the Moon's youngest and best-preserved large impact craters, captured during the first observation shift.",
+    "date": "2026-04-06T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Orientale Basin"
+    ],
+    "caption": "Orientale basin rings from the first observation shift"
   },
   {
     "source": "art002e012093.jpg",
+    "id": "art002e012093",
     "name": "moon-terminator-shadow",
-    "description": "Lunar terminator (day/night boundary), cratered highlands into deep shadow"
+    "title": "Vavilov Crater Along the Hertzsprung Basin Rim",
+    "description": "Hertzsprung Basin with its distinctive two concentric rings of mountains. Near the lower left, Vavilov crater — identified by its central peak — stands out, a feature often described by the crew during the flyby.",
+    "date": "2026-04-06T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Hertzsprung Basin",
+      "Vavilov Crater"
+    ],
+    "caption": "Hertzsprung basin with Vavilov crater below"
   },
   {
     "source": "art002e012114.jpg",
+    "id": "art002e012114",
     "name": "moon-limb-ray-craters",
-    "description": "Wide-angle Moon limb with cratered terrain and ray crater ejecta patterns"
+    "title": "A Cross Section of Lunar Geology",
+    "description": "A diverse set of lunar features including the bright Aristarchus crater, the Marius Hills volcanic domes, the sinuous Reiner Gamma swirl, rays from Glushko crater, and the dark-floored Grimaldi crater.",
+    "date": "2026-04-06T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Marius Hills",
+      "Glushko Crater",
+      "Aristarchus Crater",
+      "Grimaldi Crater",
+      "Reiner Gamma"
+    ],
+    "caption": "Aristarchus, Marius Hills, and Reiner Gamma swirl"
   },
   {
     "source": "art002e012129.jpg",
+    "id": "art002e012129",
     "name": "mare-imbrium-from-orbit",
-    "description": "Large impact basin (Mare Imbrium) with surrounding cratered highlands"
+    "title": "Seriously Moonstruck",
+    "description": "The lower half of the Moon suspended in time. In the upper center, the Orientale basin with a black patch of ancient lava that punched through the crust in an eruption billions of years ago.",
+    "date": "2026-04-06T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Orientale Basin"
+    ],
+    "caption": "Lower half of the Moon with Orientale basin"
   },
   {
     "source": "art002e012153.jpg",
+    "id": "art002e012153",
     "name": "moon-dense-crater-field",
-    "description": "Dense cratered southern highlands filling the entire frame"
+    "title": "A Crater of Remembrance",
+    "description": "The small, bright spot in the center is the crater the crew proposed naming Carroll, after Commander Reid Wiseman's late wife. About 3.5 miles across, the proposed Carroll crater is on the nearside's western edge.",
+    "date": "2026-04-06T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Carroll Crater",
+      "Reid Wiseman"
+    ],
+    "caption": "Proposed Carroll crater, named for a loved one lost"
   },
   {
     "source": "art002e012178.jpg",
+    "id": "art002e012178",
     "name": "moon-crescent-distant",
-    "description": "Moon as a partially lit crescent sphere from greater distance"
+    "title": "A Moodier Moon",
+    "description": "A shot from early in the flyby with a smaller aperture setting, showing a moodier version of the Moon. The crew spent about 7 hours photographing and recording observations as they flew around the far side.",
+    "date": "2026-04-07T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby"
+    ],
+    "caption": "A moody crescent from early in the flyby"
   },
   {
     "source": "art002e012183.jpg",
+    "id": "art002e012183",
     "name": "moon-full-disk",
-    "description": "Nearly full Moon disk with prominent craters and dark mare regions"
+    "title": "Capture My Good Side",
+    "description": "More than two-thirds of the Moon showcasing the nearside's intricate features. The 600-mile-wide Orientale basin lies along the transition between near and far sides. The round black spot northeast is Grimaldi crater, known for its dark mare lava floor.",
+    "date": "2026-04-06T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Orientale Basin",
+      "Grimaldi Crater"
+    ],
+    "caption": "Two-thirds of the Moon with Orientale and Grimaldi"
   },
   {
     "source": "art002e012261.jpg",
+    "id": "art002e012261",
     "name": "moon-highlands-long-shadows",
-    "description": "Moon's upper-left limb, cratered highlands with long terminator shadows"
+    "title": "A Tapestry of Lunar Landmarks",
+    "description": "Multiple lunar landmarks highlighted during the crew's observation call: Ohm crater, Oceanus Procellarum, Grimaldi crater, Pierazzo crater, the proposed Carroll crater, and the expansive Hertzsprung Basin — from dark volcanic plains to heavily cratered highlands.",
+    "date": "2026-04-06T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Ohm Crater",
+      "Oceanus Procellarum",
+      "Grimaldi Crater",
+      "Pierazzo Crater",
+      "Carroll Crater",
+      "Hertzsprung Basin"
+    ],
+    "caption": "Ohm, Grimaldi, Pierazzo, and Carroll craters"
   },
   {
     "source": "art002e012273.jpg",
+    "id": "art002e012273",
     "name": "moon-mare-through-window",
-    "description": "Dark mare basin with cratered highlands, spacecraft window visible"
+    "title": "Swoon at the Moon",
+    "description": "The southwest portion of Orientale Basin highlighting its prominent annular ring — a sweeping arc of mountainous terrain formed by an ancient impact. Apollo-era observers nicknamed this formation 'the kiss' for its distinctive curved shape.",
+    "date": "2026-04-06T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Orientale Basin",
+      "Apollo"
+    ],
+    "caption": "Orientale basin annular ring, nicknamed the kiss"
   },
   {
     "source": "art002e012278.jpg",
+    "id": "art002e012278",
     "name": "moon-through-orion-window",
-    "description": "Moon's cratered surface through Orion's window, framed by capsule"
+    "title": "Sill Life",
+    "description": "The Moon peeking above the window sill of the Orion spacecraft. The crew spent about 7 hours at the windows during the flyby, taking photos and recording observations to share with scientists.",
+    "date": "2026-04-06T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Orion Spacecraft"
+    ],
+    "caption": "Lunar surface through the Orion window sill"
   },
   {
     "source": "art002e012279.jpg",
+    "id": "art002e012279",
     "name": "moon-and-earth-from-orion",
-    "description": "Moon and tiny crescent Earth through Orion window, hull with red stripe visible"
+    "title": "A Room With a View",
+    "description": "A view from the Orion spacecraft window approximately 9 minutes before Earthset during the lunar flyby.",
+    "date": "2026-04-06T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "Nikon D5",
+    "lens": "80-400mm f/4.5-5.6",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Lunar Flyby",
+      "Earthset",
+      "Orion Spacecraft"
+    ],
+    "caption": "Moon and Earth from Orion, 9 minutes before Earthset"
   },
   {
     "source": "art002e012583.jpg",
+    "id": "art002e012583",
     "name": "orion-service-module",
-    "description": "Orion service module with deployed solar arrays, thrusters visible"
+    "title": "Guiding the Journey",
+    "description": "The engines on the Orion service module from a camera on a solar array wing. The largest is the orbital maneuvering system engine, surrounded by eight smaller auxiliary thrusters.",
+    "date": "2026-04-07T00:00:00Z",
+    "credit": "NASA/JSC",
+    "camera": "External camera",
+    "lens": "",
+    "settings": "",
+    "keywords": [
+      "Artemis II",
+      "Orion",
+      "Orion Spacecraft",
+      "Service Module"
+    ],
+    "caption": "Service module engines from a solar array camera"
   }
 ]

@@ -28,3 +28,13 @@ body {
 ::selection {
   background-color: rgba(255, 255, 255, 0.15);
 }
+
+/* iPhone safe areas */
+.p-safe {
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
+
+/* Prevent iOS tap highlight */
+button, a {
+  -webkit-tap-highlight-color: transparent;
+}
